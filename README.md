@@ -1,16 +1,10 @@
-# Palenight Theme
+# Juno Palenight Theme
 
 <img src="screenshot.png"/>
 
-This is a Ulauncher theme. I've tried to maintain the fidelity of the Palenight theme, for lovers of dark and vibrant colors.
+This [Ulauncher](https://github.com/Ulauncher/Ulauncher) theme is inspired by colors used in [the Juno palenight GTK theme by EliverLara](https://github.com/EliverLara/Juno), and is a fork of [srocha-dev's excellent ulauncher-palenight-theme](https://github.com/fsrocha-dev/ulauncher-palenight-theme).
 
-## Installation
+## How to Install
 
-1. Download the files from this repo
-2. Navigate to /home/<user>/.config/ulauncher
-3. Create a folder called user-themes
-4. Create another folder within user-themes called palenight
-5. Copy the files from this repo to the new palenight folder
-6. Change the theme with Ulauncher's preferences window
-
-Other themes are available from here - https://gist.github.com/gornostal/02a232e6e560da7946c053555ced6cce
+Clone the repository into the Ulauncher `user-themes` folder:
+`git clone https://github.com/pc-2198x/ulauncher-juno-palenight-theme.git ~/.config/ulauncher/user-themes/ulauncher-juno-palenight-theme`
