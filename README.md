@@ -7,4 +7,5 @@ This [Ulauncher](https://github.com/Ulauncher/Ulauncher) theme is inspired by co
 ## How to Install
 
 Clone the repository into the Ulauncher `user-themes` folder:
+
 `git clone https://github.com/pc-2198x/ulauncher-juno-palenight-theme.git ~/.config/ulauncher/user-themes/ulauncher-juno-palenight-theme`
